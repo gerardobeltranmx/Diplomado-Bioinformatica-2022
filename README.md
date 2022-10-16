@@ -1,1 +1,1 @@
-# Bioinformática 2022
+# Diplomado en Bioinformática 2022
