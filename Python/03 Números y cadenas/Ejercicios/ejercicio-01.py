@@ -7,5 +7,5 @@ o = texto.count("O")
 u = texto.count("U")
 
 total = a + e + i + o + u
-print(total)
+print("Se encontraron %d vocales" % (total))
 
